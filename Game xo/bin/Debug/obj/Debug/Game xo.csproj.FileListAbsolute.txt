@@ -1,0 +1,10 @@
+D:\برمجة عملي\Game xo\Game xo\bin\Debug\Game xo.exe
+D:\برمجة عملي\Game xo\Game xo\bin\Debug\Game xo.pdb
+D:\برمجة عملي\Game xo\Game xo\obj\Debug\ResolveAssemblyReference.cache
+D:\برمجة عملي\Game xo\Game xo\obj\Debug\Game_xo.Form1.resources
+D:\برمجة عملي\Game xo\Game xo\obj\Debug\Game_xo.play1.resources
+D:\برمجة عملي\Game xo\Game xo\obj\Debug\Game_xo.play2.resources
+D:\برمجة عملي\Game xo\Game xo\obj\Debug\Game_xo.Properties.Resources.resources
+D:\برمجة عملي\Game xo\Game xo\obj\Debug\Game xo.csproj.GenerateResource.Cache
+D:\برمجة عملي\Game xo\Game xo\obj\Debug\Game xo.exe
+D:\برمجة عملي\Game xo\Game xo\obj\Debug\Game xo.pdb

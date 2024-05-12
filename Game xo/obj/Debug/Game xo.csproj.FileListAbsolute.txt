@@ -1,0 +1,27 @@
+D:\برمجة عملي\Game xo\Game xo\bin\Debug\Game xo.exe
+D:\برمجة عملي\Game xo\Game xo\bin\Debug\Game xo.pdb
+D:\برمجة عملي\Game xo\Game xo\obj\Debug\ResolveAssemblyReference.cache
+D:\برمجة عملي\Game xo\Game xo\obj\Debug\Game_xo.Form1.resources
+D:\برمجة عملي\Game xo\Game xo\obj\Debug\Game_xo.play1.resources
+D:\برمجة عملي\Game xo\Game xo\obj\Debug\Game_xo.play2.resources
+D:\برمجة عملي\Game xo\Game xo\obj\Debug\Game_xo.Properties.Resources.resources
+D:\برمجة عملي\Game xo\Game xo\obj\Debug\Game xo.csproj.GenerateResource.Cache
+D:\برمجة عملي\Game xo\Game xo\obj\Debug\Game xo.exe
+D:\برمجة عملي\Game xo\Game xo\obj\Debug\Game xo.pdb
+D:\program\Game xo\Game xo\obj\Debug\Game xo.exe
+D:\program\Game xo\Game xo\obj\Debug\Game xo.pdb
+D:\program\Game xo\Game xo\obj\Debug\ResolveAssemblyReference.cache
+D:\program\Game xo\Game xo\obj\Debug\Game_xo.play1.resources
+D:\program\Game xo\Game xo\obj\Debug\Game_xo.play2.resources
+D:\program\Game xo\Game xo\obj\Debug\Game_xo.Properties.Resources.resources
+D:\program\Game xo\Game xo\obj\Debug\Game xo.csproj.GenerateResource.Cache
+C:\Users\malek\Desktop\Game xo\Game xo\obj\Debug\Game xo.exe
+C:\Users\malek\Desktop\Game xo\Game xo\obj\Debug\Game xo.pdb
+C:\Users\malek\Desktop\Game xo\Game xo\bin\Debug\Game xo.exe
+C:\Users\malek\Desktop\Game xo\Game xo\bin\Debug\Game xo.pdb
+C:\Users\malek\Desktop\Game xo\Game xo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\malek\Desktop\Game xo\Game xo\obj\Debug\Game_xo.Form1.resources
+C:\Users\malek\Desktop\Game xo\Game xo\obj\Debug\Game_xo.play1.resources
+C:\Users\malek\Desktop\Game xo\Game xo\obj\Debug\Game_xo.play2.resources
+C:\Users\malek\Desktop\Game xo\Game xo\obj\Debug\Game_xo.Properties.Resources.resources
+C:\Users\malek\Desktop\Game xo\Game xo\obj\Debug\Game xo.csproj.GenerateResource.Cache
